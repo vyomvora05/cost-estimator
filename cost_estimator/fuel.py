@@ -1,3 +1,5 @@
+# Webhook auto-trigger test - Sept 2026
+
 def fuel_cost(distance_km: float, mileage_kmpl: float, fuel_price_per_litre: float) -> float:
     """
     Calculate the total fuel cost for a trip.
